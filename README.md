@@ -82,7 +82,7 @@ This app allows you to create, edit, search, delete, and categorize notes with a
 
 ### 1️⃣ Clone the repository
 
-bash
+
 git clone https://github.com/<your-username>/notes-app.git
         cd notes-app
 
