@@ -82,17 +82,17 @@ This app allows you to create, edit, search, delete, and categorize notes with a
 
 ### 1️⃣ Clone the repository
 
-```bash
+bash
 git clone https://github.com/<your-username>/notes-app.git
 cd notes-app
 
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 npm install
 
-3️⃣ Install required packages
+### 3️⃣ Install required packages
 npm install react-icons dayjs
 
-4️⃣ Start development server
+### 4️⃣ Start development server
 npm run dev
 
 
@@ -100,7 +100,7 @@ App runs at:
 
 👉 http://localhost:5173/
 
-🏗️ Build for Production
+### 🏗️ Build for Production
 npm run build
 npm run preview
 
