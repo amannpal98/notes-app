@@ -73,25 +73,7 @@ This app allows you to create, edit, search, delete, and categorize notes with a
 
 ## 📁 Folder Structure
 
-notes-app/
-├─ public/
-│ ├─ index.html
-│ └─ notes.json
-├─ src/
-│ ├─ components/
-│ │ ├─ Sidebar.jsx
-│ │ ├─ Navbar.jsx
-│ │ ├─ NotesGrid.jsx
-│ │ ├─ NoteCard.jsx
-│ │ └─ NoteModal.jsx
-│ ├─ utils/
-│ │ └─ storage.js
-│ ├─ App.jsx
-│ ├─ main.jsx
-│ └─ index.css
-├─ package.json
-├─ vite.config.js
-└─ README.md
+![Dashboard](./Screenshots/Structure.png.)
 
 
 ---
