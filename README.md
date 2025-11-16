@@ -73,7 +73,7 @@ This app allows you to create, edit, search, delete, and categorize notes with a
 
 ## 📁 Folder Structure
 
-![Dashboard](./Screenshots/Structure.png.)
+![Dashboard](./Screenshots/Structure.png)
 
 
 ---
