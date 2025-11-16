@@ -8,7 +8,7 @@ This app allows you to create, edit, search, delete, and categorize notes with a
 ---
 
 ## 🚀 Live Demo  
-🔗 *(Add your deployed link here — Vercel / Netlify / GitHub Pages)*
+🔗 https://notes-app-smoky-rho.vercel.app/
 
 ---
 
