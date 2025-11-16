@@ -24,13 +24,11 @@ This app allows you to create, edit, search, delete, and categorize notes with a
 
 ## 📸 Screenshots
 
-> *(Add your own screenshots in a `/screenshots` folder and update the paths)*
-
 ### Dashboard UI  
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./Screenshots/dashboard.png)
 
 ### Create / Edit Note Modal  
-![Modal](./screenshots/modal.png)
+![Modal](Screenshots/model.png)
 
 ---
 
