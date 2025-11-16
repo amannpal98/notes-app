@@ -105,3 +105,16 @@ App runs at:
        npm run build
        npm run preview
 
+### 🤝 Contributing
+
+Contributions are welcome!
+Feel free to open an issue or submit a pull request.
+
+### 📜 License
+
+This project is licensed under the MIT License.
+
+### ⭐ Support
+
+If you like this project, don't forget to ⭐ star the repo!
+
